@@ -5,3 +5,10 @@
 html {
   font-family: sans-serif;
 }
+
+body {
+  background-image: url(img/cactus.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: grey;
+}
